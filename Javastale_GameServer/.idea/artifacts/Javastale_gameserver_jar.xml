@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Javastale_gameserver:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Javastale_gameserver_jar</output-path>
+    <root id="archive" name="Javastale.jar">
+      <element id="module-output" name="Javastale" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.38/mysql-connector-java-5.1.38.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
